@@ -3,6 +3,9 @@
 # 运筹学修炼日记：TSP中两种不同消除子环路的方法及callback实现（Python调用Gurobi求解）
 # TSP问题的一般模型
 
+我创作的原文在CSDN上，感兴趣的可以前往：
+https://blog.csdn.net/HsinglukLiu/article/details/107848461
+
 Traveling Salesman Problem(TSP)，中文名叫`旅行商问题`，`货郎担问题`（前者更常见）。TSP的描述如下：
 >给定一系列的结点集合$V$（$|V|=N$），找到一条从该节点出发，依次不重复的经过所有其他节点，最终返回到出发点的最短路径。
 
