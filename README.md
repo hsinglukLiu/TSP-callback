@@ -4,7 +4,7 @@
 # TSP问题的一般模型
 
 Traveling Salesman Problem(TSP)，中文名叫`旅行商问题`，`货郎担问题`（前者更常见）。TSP的描述如下：
->给定一系列的结点集合$V$（$|V|=N$），找到一条从该节点出发，依次不重复的经过所有其他节点，最终返回到出发点的最短路径。
+>给定一系列的结点集合$$V$$（$|V|=N$），找到一条从该节点出发，依次不重复的经过所有其他节点，最终返回到出发点的最短路径。
 
 如下图
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200806202054628.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0hzaW5nbHVrTGl1,size_16,color_FFFFFF,t_70#pic_center)
